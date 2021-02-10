@@ -1,0 +1,144 @@
+
+#title {
+  background-color: #08d9d6;
+  color:#fff;
+}
+.container-fluid {
+  padding: 3% 15%;
+}
+h1 {
+  font-family: 'Montserrat-black', sans-serif;
+  font-weight: bolder;
+  font-size: 3.5rem;
+  line-height: 1.5;
+  color: white;
+}
+.navbar-brand {
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 2.5rem;
+}
+.nav-item {
+  padding: 0px 18px 0px 18px; 
+}
+.nav-link {
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 1.2rem;
+  font-weight: normal;
+}
+.navbar {
+  padding:0 0 4.5rem;
+}
+.d-button {
+  margin: 5% 3% 5% 0%;
+}
+.title-img {
+  width: 100%;
+  transform: rotate(10deg);
+  padding-bottom: 5.5rem;
+}
+.feature {
+  text-align: center;
+  padding: 4.5%
+}
+.feature-1 {
+  text-align: center;
+  padding: 4.5%
+}
+.icon {
+  color: #ef8172;
+  margin-bottom: 1.3rem;
+}
+.icon-1 {
+    color: #70ae4c;
+    margin-bottom: 1.3rem;
+}
+p {
+  color:#8f8f8f;
+  padding: 2%;
+  text-align: center;
+}
+#features{
+  padding: 7% 15%;
+}
+h3 {
+  font-family: 'Montserrat-black', sans-serif;
+  font-weight: bolder;
+  font-size: 1.7rem;
+}
+.icon:hover {
+  color: #08d9d6;
+}
+.icon-1:hover {
+  color: #08d9d6;
+}
+/* testimonial section*/
+#testimonials {
+
+  text-align: center;
+  background-color: #08d9d6;
+  color: #fff;
+}
+h2{
+  font-family: 'Montserrat-black', sans-serif;
+  font-weight: bolder;
+  font-size: 2.5rem;
+  line-height: 1.5;
+}
+.test-img {
+  width: 20%;
+  border-radius: 100%;
+  margin: 25px;
+}
+.carousel-item  {
+    padding: 7% 11%;
+}
+#pricing {
+  padding: 100px;
+  text-align: center;
+
+}
+.pc {
+  padding: 3% 2%;
+}
+#bt1 {
+  margin-left: 120px;
+}
+@media (max-width: 1168px) {
+  #title {
+    text-align: center;
+  }
+  .title-img {
+    position: static;
+    transform: rotate(0);
+
+  }
+}
+#cta {
+  background-color:  #08d9d6;
+  color:#fff;
+  text-align: center;
+
+}
+#cta1 {
+  font-family: 'Montserrat-black', sans-serif;
+  font-weight: bolder;
+  font-size: 3rem;
+  line-height: 1.5;
+  text-align: center;
+  padding: 5rem 20rem 0 20rem;
+}
+#cta2 {
+  margin-left: 65px;
+  margin-top: 10;
+}
+#footer {
+  padding: 3% 15%;
+  text-align: center;
+}
+.foot{
+  margin: 12px 7px;
+  color:black;
+}
+a:hover {
+  color:#08d9d6;
+}
